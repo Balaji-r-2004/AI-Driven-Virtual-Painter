@@ -1,5 +1,7 @@
 # 🎨 AI Virtual Painter — Gesture-Controlled Digital Art System
 
+🏆 **Selected and Funded by Karnataka State Council for Science and Technology (KSCST) under SPP 2025–26**
+
 An **AI-powered Virtual Painting System** that allows users to draw, erase, and create art **using only hand gestures** captured by a webcam.  
 Built with **Python, OpenCV, and MediaPipe**, this project showcases the power of **computer vision, real-time hand tracking**, and **gesture-based interaction**.
 
